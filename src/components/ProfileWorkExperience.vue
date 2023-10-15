@@ -52,7 +52,7 @@
         {
           color: "green",
           icon: "mdi-briefcase-account",
-          year: "01/09/2022 - To Date",
+          year: "01/09/2021 - 01/09/2022",
           work: "FrontEnd Developer",
           where: "Bikebuka Company",
           addr: "",
